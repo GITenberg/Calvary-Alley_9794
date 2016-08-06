@@ -1,0 +1,28 @@
+_repo: Calvary-Alley_9794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Rice, Alice Hegan
+    - Hegan, Alice Caldwell
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: Cover -- Contents.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Calvary Alley
+url: http://www.gutenberg.org/ebooks/9794
